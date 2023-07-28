@@ -3,7 +3,7 @@ Estoy aprendiendo a programar enfocándome actualmente en FullStack Developer
 
 Este repositorio contiene algunos de mis primeros proyectos para practicar lo que estoy aprendiendo.
 
-Si tienes alguna sugerencia o consejo, ¡por favor déjame saber! Estaré encantada de recibir cualquier comentario que me ayude a mejorar como desarrolladora.
+Si tenés alguna sugerencia o consejo, voy a estar muy agradecida de recibir cualquier comentario que me ayude a mejorar como desarrolladora.
 
 💻 Tech Stack:
 CSS, JavaScript, TypeScript, Bootstrap, Express.js, Insomnia, NodeJS, React, Redux,
